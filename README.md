@@ -1,6 +1,6 @@
 # gitskill
 Creating a new branch is quick.
-taojing is tiancai
+taojing is shabi
 Creating a new branch is quick AND simple.
 taojing
-laalla
+zhongjing woaini
